@@ -1,4 +1,4 @@
-# Bike_Sales_Analysis
+# Bike Sales Analysis
 Hello!  
 
 This project contains the an analysis of a bike sales data set from kaggle (https://www.kaggle.com/code/heeraldedhia/predict-bike-sale-binary-classification/notebook).
